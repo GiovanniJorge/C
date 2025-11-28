@@ -1,0 +1,77 @@
+Year,Driver,Owner(s)/Team,Car No.,Manufacturer,Wins,Top-5,Top-10,Races,Points,Gap
+1949,Red Byron,Raymond Parks,22,Oldsmobile,1,2,4,0,842.50,117.50
+1950,Bill Rexford,Julian Buesink,8,Oldsmobile,0,1,11,0,1959.00,110.50
+1951,Herb Thomas,Herb Thomas,92,Plymouth/Hudson,4,7,18,41,4208.45,146.20
+1952,Tim Flock,Ted Chester,91,Hudson,4,8,25,45,6858.50,106.00
+1953,Herb Thomas,Herb Thomas,92,Hudson,12,12,31,37,8460.00,646.00
+1954,Lee Petty,Petty Enterprises,42,Chrysler/Dodge,3,7,32,37,8649.00,283.00
+1955,Tim Flock,Carl Kiekhaefer,300,Chrysler,18,18,33,45,9596.00,1508.00
+1956,Buck Baker,Carl Kiekhaefer,0,Chrysler/Dodge,12,14,39,56,9272.00,704.00
+1957,Buck Baker,Buck Baker,87,Chevrolet,6,10,38,53,10716.00,760.00
+1958,Lee Petty,Petty Enterprises,42,Oldsmobile,7,43,4,51,12232.00,644.00
+1959,Lee Petty,Petty Enterprises,42,Plymouth/Oldsmobile,2,11,35,44,11792.00,1830.00
+1960,Rex White,Rex White,4,Chevrolet,3,6,35,44,21164.00,3936.00
+1961,Ned Jarrett,Ned Jarrett,11,Ford/Chevrolet,4,1,34,52,27272.00,830.00
+1962,Joe Weatherly,Bud Moore,8,Pontiac,7,9,45,53,30836.00,2396.00
+1963,Joe Weatherly,Bud Moore,8,Mercury/Pontiac,6,3,35,55,33398.00,2228.00
+1964,Richard Petty,Petty Enterprises,43,Plymouth,8,9,43,62,40252.00,5302.00
+1965,Ned Jarrett,Bondy Long,11,Ford,9,13,45,55,38824.00,3034.00
+1966,David Pearson,Cotton Owens,6,Dodge,7,15,33,49,35638.00,1950.00
+1967,Richard Petty,Petty Enterprises,43,Plymouth,18,27,40,49,42472.00,6028.00
+1968,David Pearson,Holman-Moody,17,Ford,12,16,38,49,3499.00,126.00
+1969,David Pearson,Holman-Moody,17,Ford,13,11,44,49,4170.00,357.00
+1970,Bobby Isaac,Nord Krauskopf,71,Dodge,13,11,38,0,3911.00,51.00
+1971,Richard Petty,Petty Enterprises,43,Plymouth,9,21,41,0,4435.00,364.00
+1972,Richard Petty,Petty Enterprises,43,Dodge/Plymouth,3,8,28,0,8701.40,127.90
+1973,Benny Parsons,L.G. DeWitt,72,Chevrolet/Mercury,0,1,21,0,7173.80,67.15
+1974,Richard Petty,Petty Enterprises,43,Dodge,7,10,23,0,5037.75,567.45
+1975,Richard Petty,Petty Enterprises,43,Dodge,3,13,24,0,4783.00,722.00
+1976,Cale Yarborough,Junior Johnson,11,Chevrolet,2,9,23,0,4644.00,195.00
+1977,Cale Yarborough,Junior Johnson,11,Chevrolet,3,9,27,0,5000.00,386.00
+1978,Cale Yarborough,Junior Johnson,11,Oldsmobile,8,10,24,0,4841.00,474.00
+1979,Richard Petty,Petty Enterprises,43,Chevrolet/Oldsmobile,1,5,27,0,4830.00,11.00
+1980,Dale Earnhardt,Rod Osterlund,2,Chevrolet/Oldsmobile,0,5,24,0,4661.00,19.00
+1981,Darrell Waltrip,Junior Johnson,11,Chevrolet/Buick,11,12,25,0,4880.00,53.00
+1982,Darrell Waltrip,Junior Johnson,11,Buick,7,12,20,0,4489.00,72.00
+1983,Bobby Allison,Bill Gardner,22,Chevrolet/Buick,0,6,25,0,4667.00,47.00
+1984,Terry Labonte,Billy Hagan,44,Chevrolet,2,2,24,0,4508.00,65.00
+1985,Darrell Waltrip,Junior Johnson,11,Chevrolet,4,3,21,0,4292.00,101.00
+1986,Dale Earnhardt,Richard Childress,3,Chevrolet,1,5,23,0,4468.00,288.00
+1987,Dale Earnhardt,Richard Childress,3,Chevrolet,1,11,24,0,4696.00,489.00
+1988,Bill Elliott,Harry Melling,9,Ford,6,6,22,0,4488.00,24.00
+1989,Rusty Wallace,Raymond Beadle,27,Pontiac,4,6,20,0,4176.00,12.00
+1990,Dale Earnhardt,Richard Childress,3,Chevrolet,4,9,23,0,4430.00,26.00
+1991,Dale Earnhardt,Richard Childress,3,Chevrolet,0,4,21,0,4287.00,195.00
+1992,Alan Kulwicki,Alan Kulwicki,7,Ford,6,2,17,0,4078.00,10.00
+1993,Dale Earnhardt,Richard Childress,3,Chevrolet,2,6,21,0,4526.00,80.00
+1994,Dale Earnhardt,Richard Childress,3,Chevrolet,2,4,25,0,4694.00,444.00
+1995,Jeff Gordon,Rick Hendrick,24,Chevrolet,8,7,23,0,4614.00,34.00
+1996,Terry Labonte,Rick Hendrick,5,Chevrolet,4,2,24,0,4657.00,37.00
+1997,Jeff Gordon,Rick Hendrick,24,Chevrolet,1,10,23,0,4710.00,14.00
+1998,Jeff Gordon,Rick Hendrick,24,Chevrolet,7,13,28,0,5328.00,364.00
+1999,Dale Jarrett,Robert Yates,88,Ford,0,4,29,0,5262.00,201.00
+2000,Bobby Labonte,Joe Gibbs,18,Pontiac,2,4,24,0,5130.00,265.00
+2001,Jeff Gordon,Rick Hendrick,24,Chevrolet,6,6,24,0,5112.00,349.00
+2002,Tony Stewart,Joe Gibbs,20,Pontiac,2,3,21,0,4800.00,38.00
+2003,Matt Kenseth,Jack Roush,17,Ford,0,1,25,0,5022.00,90.00
+2004,Kurt Busch,Jack Roush,97,Ford,1,3,21,0,6506.00,8.00
+2005,Tony Stewart,Joe Gibbs,20,Chevrolet,3,5,25,0,6533.00,35.00
+2006,Jimmie Johnson,Rick Hendrick,48,Chevrolet,1,5,24,0,6475.00,56.00
+2007,Jimmie Johnson,Rick Hendrick,48,Chevrolet,4,10,24,0,6723.00,77.00
+2008,Jimmie Johnson,Rick Hendrick,48,Chevrolet,6,7,22,0,6684.00,69.00
+2009,Jimmie Johnson,Rick Hendrick,48,Chevrolet,4,7,24,0,6652.00,141.00
+2010,Jimmie Johnson,Rick Hendrick,48,Chevrolet,2,6,23,0,6622.00,39.00
+2011,Tony Stewart,Stewart‐Haas,14,Chevrolet,1,5,19,0,2403.00,0.00
+2012,Brad Keselowski,Penske,2,Dodge,0,5,23,0,2400.00,39.00
+2013,Jimmie Johnson,Rick Hendrick,48,Chevrolet,4,6,24,0,2419.00,19.00
+2014,Kevin Harvick,Stewart‐Haas,4,Chevrolet,8,5,20,0,5043.00,1.00
+2015,Kyle Busch,Joe Gibbs,18,Toyota,1,5,16,0,5043.00,1.00
+2016,Jimmie Johnson,Rick Hendrick,48,Chevrolet,1,5,16,0,5040.00,3.00
+2017,Martin Truex Jr.,Furniture Row,78,Toyota,3,8,26,0,5040.00,5.00
+2018,Joey Logano,Penske,22,Ford,3,3,26,0,5040.00,5.00
+2019,Kyle Busch,Joe Gibbs,18,Toyota,1,5,27,0,5040.00,5.00
+2020,Chase Elliott,Rick Hendrick,9,Chevrolet,1,5,22,0,5040.00,5.00
+2021,Kyle Larson,Rick Hendrick,5,Chevrolet,2,10,26,0,5040.00,5.00
+2022,Joey Logano,Penske,22,Ford,4,4,15,0,5040.00,6.00
+2023,Ryan Blaney,Penske,12,Ford,0,3,18,0,5035.00,1.00
+2024,Joey Logano,Penske,22,Ford,3,4,12,0,5040.00,5.00
