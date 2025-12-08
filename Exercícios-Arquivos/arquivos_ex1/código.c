@@ -21,7 +21,7 @@ int main() {
 	
 	printf("--- Sistema Alunos ---\n");
 	
-	qtd_pessoas = carrega_alunos("alunos (1).csv", pessoa);
+	qtd_pessoas = carrega_alunos("alunos.csv", pessoa);
 	
 	if (qtd_pessoas > 0) {
 		printf("Carregados %d registros com sucesso.\n", qtd_pessoas);
